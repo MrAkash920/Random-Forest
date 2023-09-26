@@ -1,7 +1,5 @@
 # Random-Forest
 
-![Random Forest](https://raw.githubusercontent.com/MrAkash920/Random-Forest/master/random_forest_image.png)
-
 ## Introduction
 
 Random Forest is a powerful ensemble machine learning algorithm used for both regression and classification tasks. It's widely used in data science and has several advantages, including high accuracy, resistance to overfitting, and robustness with complex datasets.
